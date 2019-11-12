@@ -1,0 +1,21 @@
+{
+  "name": "NewSite",
+  "authors": [
+    "Inna <Innlinag@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lesshat": "^4.1.0",
+    "bootstrap": "^4.3.1"
+  }
+}

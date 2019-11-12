@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7298068d-df23-4a25-bccf-26b6803d4995" name="newsyte" url="http://mysitestudy.eu5.net">
+        <fileTransfer host="f20-preview.freehostingeu.com" port="21" rootFolder="/mysitestudy.eu5.net">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
